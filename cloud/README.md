@@ -2,8 +2,8 @@
 
 ## 2018 Jun
 
+![](2018-06-29_devopsdays_aws_lambda.jpg)
+
 ![](2018-06-28_devopsdays_cloud-native.PNG)
 
 ![](2018-06-28_devopsdays_what-is-cloud-native.png)
-
-![](2018-06-29_devopsdays_aws_lambda.jpg)
