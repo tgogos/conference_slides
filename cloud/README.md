@@ -4,8 +4,8 @@
 
 CloudNativeLondon
 
-![](2018-09-26_#CloudNativeLondon_mountains_of_crap+openstack.jpg)
-![](2018-09-26_#CloudNativeLondon_mountains_of_crap.jpg)
+![](2018-09-26_CloudNativeLondon_mountains_of_crap+openstack.jpg)
+![](2018-09-26_CloudNativeLondon_mountains_of_crap.jpg)
 
 ## 2018 Jul
 
