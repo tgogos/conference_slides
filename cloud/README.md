@@ -1,5 +1,10 @@
 # Containers, Kubernetes, Cloud-native, Serverless area...
 
+## 2018 Nov
+
+AWS re:Invent - Serverless is an operational construct
+![](2018-11-26_AWS_reinvent_service_rainbow.jpg)
+
 ## 2018 Sep
 
 CloudNativeLondon
